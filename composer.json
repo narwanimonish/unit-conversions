@@ -1,16 +1,16 @@
 {
-    "name": "spatie/:package_name",
-    "description": ":package_description",
+    "name": "spatie/unit-conversions",
+    "description": "Package to perform unit conversions in PHP",
     "keywords": [
         "spatie",
-        ":package_name"
+        "unit-conversions"
     ],
-    "homepage": "https://github.com/spatie/:package_name",
+    "homepage": "https://github.com/spatie/unit-conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "Monish Narwani",
+            "email": "narwanimonish@gmail.com",
             "homepage": "https://spatie.be",
             "role": "Developer"
         }
